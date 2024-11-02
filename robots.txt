@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axugaume.github.io/FVp/sitemap_index.txt
+Sitemap: https://axugaume.github.io/LXu/sitemap_index.txt
+Sitemap: https://axugaume.github.io/QeY/sitemap_index.txt
+Sitemap: https://axugaume.github.io/bBC/sitemap_index.txt
